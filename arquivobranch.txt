@@ -1,2 +1,6 @@
+
 Alteração feita no navegador
 Alteração local
+
+Alteração feita no navegador, simular confito.
+
